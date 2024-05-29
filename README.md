@@ -1,25 +1,5 @@
 
 
-# FULL STACK COURSE 2023
-
-1. [ REACT MasterClass Course Material - HERE](#react-js-masterclass) 
-
-  - React MasterClass 2023 [Video](https://youtu.be/6l8RWV8D-Yo)
-
-  - Assignment Solutions [Video](https://youtu.be/u6zQ9yhIg4o)
-
-2. [ NODE MasterClass Course Material - HERE](#node-js-masterclass) 
-
-  - NODE 2023  [Video](https://youtu.be/ChVE-JbtYbM)
-
-3. [ Redux MasterClass Course Material - HERE](#redux-js-masterclass) 
-
-  - REDUX 2023  [Video](TODO)
-
-# React JS MasterClass   
-
-
-
 Hi, This is course page of **CoderDost Youtube Channel** React JS 2023 Course [Video Link ](https://youtu.be/6l8RWV8D-Yo),
 
 ### How to use this code :

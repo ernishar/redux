@@ -44,6 +44,13 @@ function accountReducer(state = { amount: 1 }, action) {
   }
 }
 
+function acountReducer (state = {amount:1}, action){
+  switch(action.type){
+    case getAccUserFulFilled:
+      return { amount: action.payload , pending: false}
+    }
+}
+
 function bonusReducer(state = { points: 0 }, action) {
     switch (action.type) {
         case incBonus:
